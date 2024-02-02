@@ -110,6 +110,19 @@ Have a great and safe journey! Enjoy every moment, stay safe, and make wonderful
 
 ![safe](https://github.com/SwethaJollu/TourismManagement/assets/132564619/a57cf1dd-be3a-48c4-8c5c-c4d52116d7fa)
 
+# Tech Stack :
+
+* React Js
+
+* Intellij Idea
+
+* My SQL
+
+* Spring boot
+
+* Postman API
+
+
  
 
   
